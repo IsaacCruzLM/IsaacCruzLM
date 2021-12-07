@@ -1,9 +1,10 @@
 <h1 align="center">Olá 👋, Muito Prazer, Sou Isaac Cruz</h1>
-<h3 align="center">Apaixonado por Tecnologia e Buscando minha Primeira Oportunidade como Desenvolvedor Jr.</h3>
+<h3 align="center">Apaixonado por Tecnologia</h3>
+<h3 align="center">Buscando minha Primeira Oportunidade como Desenvolvedor Jr.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isaaccruzlm&label=Profile%20views&color=0e75b6&style=flat" alt="isaaccruzlm" /> </p>
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="center">Entre em contato comigo:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/isaaccruzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaaccruzz" height="30" width="40" /></a>
 </p>
@@ -74,7 +75,7 @@
   </p>
 <div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaccruzlm&show_icons=true&locale=en&layout=compact" alt="isaaccruzlm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaccruzlm&show_icons=true&locale=en&layout=compact" alt="isaaccruzlm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaccruzlm&show_icons=true&locale=en" alt="isaaccruzlm" /></p>
 
