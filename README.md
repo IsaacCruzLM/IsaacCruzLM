@@ -77,6 +77,6 @@
   </p>
 <div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaccruzlm&show_icons=true&locale=en&layout=compact" alt="isaaccruzlm" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaccruzlm&show_icons=true&locale=en&layout=compact" alt="isaaccruzlm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaccruzlm&show_icons=true&locale=en" alt="isaaccruzlm" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaccruzlm&show_icons=true&locale=en" alt="isaaccruzlm" /></p>
