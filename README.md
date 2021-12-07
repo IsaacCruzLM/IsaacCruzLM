@@ -6,7 +6,8 @@
 
 <h2 align="center">Entre em contato comigo:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/isaaccruzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaaccruzz" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/isaaccruzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaaccruzz" height="30" width="40" /></a>
+  <a href="https://isaaccruzlm.github.io/Portfolio/" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Linguagens e Ferramentas:</h2>
